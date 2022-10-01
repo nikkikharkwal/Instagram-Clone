@@ -10,4 +10,4 @@ Project Link : [Codesandox](https://dszse5.codesandbox.io/)
 
 [Netlify](https://csb-dszse5.netlify.app/)
 
-!screenshot(NeX4n_page-0001.jpg)
+![screenshot](NeX4n_page-0001.jpg)
